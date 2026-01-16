@@ -1,0 +1,7 @@
+{
+  "name": "Ξvos Premium Streetwear",
+  "description": "High-end, modern e-commerce platform for the luxury streetwear brand Ξvos, featuring smooth 3D animations and a minimalist white-on-black aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
